@@ -9,6 +9,7 @@ description:
 - **Composer:** Minah Ramandrosoa
 - **Key:** E minor
 - **Tempo:** Allegro
+- **Instrument:** Piano
 
 <!--more-->
 ## Description

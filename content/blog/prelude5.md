@@ -9,6 +9,7 @@ description:
 - **Composer:** Minah Ramandrosoa
 - **Key:** D major
 - **Tempo:** Adagio
+- **Instrument:** Piano
 
 <!--more-->
 

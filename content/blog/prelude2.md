@@ -7,6 +7,7 @@ description:
 - **Composer:** Minah Ramandrosoa
 - **Key:** A minor
 - **Tempo:** Presto
+- **Instrument:** Piano
 
 <!--more-->
 ## Description

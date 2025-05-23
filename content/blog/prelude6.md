@@ -8,6 +8,7 @@ description:
 - **Composer:** Minah Ramandrosoa
 - **Key:** B minor
 - **Tempo:** Vivace
+- **Instrument:** Piano
 
 <!--more-->
 

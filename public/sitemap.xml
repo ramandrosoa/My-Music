@@ -2,35 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/sheet_music/blog/prelude7/</loc>
+    <loc>http://localhost:1313/blog/prelude7/</loc>
     <lastmod>2025-03-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sheet_music/blog/prelude6/</loc>
+    <loc>http://localhost:1313/blog/prelude6/</loc>
     <lastmod>2025-03-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sheet_music/blog/prelude5/</loc>
+    <loc>http://localhost:1313/blog/prelude5/</loc>
     <lastmod>2025-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sheet_music/blog/prelude4/</loc>
+    <loc>http://localhost:1313/blog/prelude4/</loc>
     <lastmod>2025-03-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sheet_music/blog/prelude3/</loc>
+    <loc>http://localhost:1313/blog/prelude3/</loc>
     <lastmod>2025-02-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sheet_music/blog/prelude2/</loc>
+    <loc>http://localhost:1313/blog/prelude2/</loc>
     <lastmod>2025-02-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sheet_music/blog/prelude1/</loc>
+    <loc>http://localhost:1313/blog/prelude1/</loc>
     <lastmod>2025-02-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sheet_music/blog/</loc>
+    <loc>http://localhost:1313/blog/</loc>
     <lastmod>2024-05-12T12:44:32-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sheet_music/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-05-03T13:32:33-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sheet_music/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/sheet_music/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>

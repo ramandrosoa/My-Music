@@ -7,6 +7,7 @@ imageNumber: 1
 - **Composer:** Minah Ramandrosoa
 - **Key:** C major
 - **Tempo:** Allegretto
+- **Instrument:** Piano
 
 <!--more-->
 ## Description

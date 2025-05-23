@@ -8,6 +8,7 @@ description:
 - **Composer:** Minah Ramandrosoa
 - **Key:** G major
 - **Tempo:** Moderato
+- **Instrument:** Piano
 
 <!--more-->
 
