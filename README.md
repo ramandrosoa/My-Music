@@ -1,6 +1,6 @@
 # Sheet Music Website
 
-This is the repository for my personal sheet music website, where I share original compositions for free. The site is built using the [Quint](https://themes.gohugo.io/themes/hugo-theme-quint/) theme for [Hugo](https://gohugo.io/) and is deployed via [Netlify](https://www.netlify.com/).
+This is the repository for my personal sheet music website, where I share original compositions for free. The site is built using the [Quint](https://github.com/victoriadrake/hugo-theme-quint?tab=readme-ov-file) theme for [Hugo](https://gohugo.io/) and is deployed via [Netlify](https://www.netlify.com/).
 
 ## 🛠️ Technologies Used
 - **Hugo** – Static site generator

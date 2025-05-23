@@ -1,6 +1,9 @@
 <div class="contact">
     <h1>Contact</h1>
-    {{ with .Site.Params.contact }}{{ . | markdownify }}
+    {{ with .Site.Params.contact }}
+        <div class="contact-content">
+            {{ . | markdownify }}
+        </div>
     {{ else }}
         <p>Contact info coming soon!</p>
     {{ end }}
