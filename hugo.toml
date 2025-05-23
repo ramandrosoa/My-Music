@@ -1,4 +1,4 @@
-baseURL = 'https://ramandrosoa.github.io/sheet_music/'
+baseURL = 'https://my-sheet-music.netlify.app/'
 languageCode = 'en-us'
 title = 'Quint'
 theme = "quint"
