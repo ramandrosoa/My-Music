@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Quint</title>
-    <link>http://localhost:1313/blog/</link>
+    <link>http://localhost:1313/sheet_music/blog/</link>
     <description>Recent content in Blog on Quint</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 30 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/sheet_music/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Prelude No.7 &#39;Sweet Dream&#39; </title>
-      <link>http://localhost:1313/blog/prelude7/</link>
+      <link>http://localhost:1313/sheet_music/blog/prelude7/</link>
       <pubDate>Sun, 30 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/prelude7/</guid>
+      <guid>http://localhost:1313/sheet_music/blog/prelude7/</guid>
       <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Composer:&lt;/strong&gt; Minah Ramandrosoa&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Key:&lt;/strong&gt; A major&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Tempo:&lt;/strong&gt; Larghetto&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Prelude No.6 &#39;Inhibition&#39; </title>
-      <link>http://localhost:1313/blog/prelude6/</link>
+      <link>http://localhost:1313/sheet_music/blog/prelude6/</link>
       <pubDate>Tue, 25 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/prelude6/</guid>
+      <guid>http://localhost:1313/sheet_music/blog/prelude6/</guid>
       <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Composer:&lt;/strong&gt; Minah Ramandrosoa&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Key:&lt;/strong&gt; B minor&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Tempo:&lt;/strong&gt; Vivace&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Prelude No.5 &#39;Wave&#39; </title>
-      <link>http://localhost:1313/blog/prelude5/</link>
+      <link>http://localhost:1313/sheet_music/blog/prelude5/</link>
       <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/prelude5/</guid>
+      <guid>http://localhost:1313/sheet_music/blog/prelude5/</guid>
       <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Composer:&lt;/strong&gt; Minah Ramandrosoa&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Key:&lt;/strong&gt; D major&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Tempo:&lt;/strong&gt; Adagio&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Prelude No.4 &#39;What Ifs&#39;</title>
-      <link>http://localhost:1313/blog/prelude4/</link>
+      <link>http://localhost:1313/sheet_music/blog/prelude4/</link>
       <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/prelude4/</guid>
+      <guid>http://localhost:1313/sheet_music/blog/prelude4/</guid>
       <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Composer:&lt;/strong&gt; Minah Ramandrosoa&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Key:&lt;/strong&gt; E minor&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Tempo:&lt;/strong&gt; Allegro&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Prelude No.3 &#39;Loop&#39; </title>
-      <link>http://localhost:1313/blog/prelude3/</link>
+      <link>http://localhost:1313/sheet_music/blog/prelude3/</link>
       <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/prelude3/</guid>
+      <guid>http://localhost:1313/sheet_music/blog/prelude3/</guid>
       <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Composer:&lt;/strong&gt; Minah Ramandrosoa&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Key:&lt;/strong&gt; G major&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Tempo:&lt;/strong&gt; Moderato&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Prelude No.2</title>
-      <link>http://localhost:1313/blog/prelude2/</link>
+      <link>http://localhost:1313/sheet_music/blog/prelude2/</link>
       <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/prelude2/</guid>
+      <guid>http://localhost:1313/sheet_music/blog/prelude2/</guid>
       <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Composer:&lt;/strong&gt; Minah Ramandrosoa&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Key:&lt;/strong&gt; A minor&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Tempo:&lt;/strong&gt; Presto&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Prelude No.1 &#39;Lalala&#39; </title>
-      <link>http://localhost:1313/blog/prelude1/</link>
+      <link>http://localhost:1313/sheet_music/blog/prelude1/</link>
       <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/prelude1/</guid>
+      <guid>http://localhost:1313/sheet_music/blog/prelude1/</guid>
       <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Composer:&lt;/strong&gt; Minah Ramandrosoa&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Key:&lt;/strong&gt; C major&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Tempo:&lt;/strong&gt; Allegretto&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
