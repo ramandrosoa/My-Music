@@ -1,6 +1,6 @@
 ---
-title: "Blog"
-date: 2024-05-12T12:44:32-05:00
+title: "Search"
+date: '2025-02-12'
 draft: false
 image: ''
 description:
