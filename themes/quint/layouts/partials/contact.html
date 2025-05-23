@@ -1,10 +1,8 @@
 <div class="contact">
     <h1>Contact</h1>
-    {{ with .Site.Params.contact }}
-        <div class="contact-content">
-            {{ . | markdownify }}
-        </div>
-    {{ else }}
-        <p>Contact info coming soon!</p>
-    {{ end }}
+    <form action="https://formspree.io/f/xovdzryn" method="POST">
+        <label>Your Email: <input type="email" name="_replyto"></label>
+        <label>Message: <textarea name="message"></textarea></label>
+        <button type="submit">Send</button>
+    </form>
 </div>

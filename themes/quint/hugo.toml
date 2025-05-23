@@ -8,8 +8,10 @@ css = ["css/custom.css"]            # Your custom CSS overrides, stored in yours
 numImages = 10                      # Number of random images to choose from for banners (in themes/quint/static/images)
 useToc = false                      # Set to true to show a Table of Contents on multi-heading posts
 
-contact = "You can write me an [email](mailto:minah.ram2000@gmail.com)."
-
+contact = """
+**Email:** [minah.ram2000@gmail.com](mailto:minah.ram2000@gmail.com)  
+*(This will open your default email application)*
+"""
 
 # [[params.social]]
 #     url = "mailto:me"
