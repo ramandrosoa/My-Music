@@ -15,4 +15,16 @@ url = 'https://github.com/ramandrosoa/'
 [markup.goldmark.renderer]
     unsafe = true
 
+[mediaTypes]
+  [mediaTypes."text/netlify"]
+    suffixes = ["netlify"]
+
+[outputFormats]
+  [outputFormats."NETLIFY"]
+    mediaType = "text/netlify"
+    baseName = "_redirects"
+    isPlainText = true
+
+[outputs]
+  home = ["HTML", "NETLIFY"]
 
