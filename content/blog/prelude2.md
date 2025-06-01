@@ -1,5 +1,5 @@
 ---
-title: "Prelude No.2 'War and Peace' "
+title: "Prelude No. 2 'War and Peace' "
 date: '2025-02-21'
 draft: false
 description: 
@@ -18,4 +18,4 @@ Built on the tension and eventual transformation between A minor and A major, it
  
  ## Download Sheet Music
 
-[Prelude No.2 in A minor (pdf)](/pdfs/Prelude%20No.2%20in%20Aminor.pdf)
+[Prelude No. 2 in A minor (pdf)](/pdfs/Prelude%20No.2%20in%20Aminor.pdf)

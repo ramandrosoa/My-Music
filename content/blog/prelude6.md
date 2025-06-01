@@ -1,5 +1,5 @@
 ---
-title: "Prelude No.6 'Inhibition' "
+title: "Prelude No. 6 'Inhibition' "
 date: '2025-03-25'
 draft: false
 image: ''
@@ -22,4 +22,4 @@ description:
 
  ## Download Sheet Music
 
-[Prelude No.6 in B minor (pdf)](/pdfs/Prelude%20No.6%20in%20Bminor.pdf)
+[Prelude No. 6 in B minor (pdf)](/pdfs/Prelude%20No.6%20in%20Bminor.pdf)

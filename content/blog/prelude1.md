@@ -1,5 +1,5 @@
 ---
-title: "Prelude No.1 'Lalala' "
+title: "Prelude No. 1 'Lalala' "
 date: '2025-02-12'
 draft: false
 imageNumber: 1
@@ -17,4 +17,4 @@ Both hands move in unison, echoing each other in a continuous fluid motion, gent
 
  ## Download Sheet Music
 
- [Prelude No.1 in C major (pdf)](/pdfs/Prelude%20No.1%20in%20Cmajor.pdf)
+ [Prelude No. 1 in C major (pdf)](/pdfs/Prelude%20No.1%20in%20Cmajor.pdf)

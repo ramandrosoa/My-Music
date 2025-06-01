@@ -1,5 +1,5 @@
 ---
-title: "Prelude No.4 'What Ifs'"
+title: "Prelude No. 4 'What Ifs'"
 date: '2025-03-03'
 draft: false
 image: ''
@@ -22,4 +22,4 @@ description:
 
  ## Download Sheet Music
 
-[Prelude No.4 in E minor (pdf)](/pdfs/Prelude%20No.4%20in%20Eminor.pdf)
+[Prelude No. 4 in E minor (pdf)](/pdfs/Prelude%20No.4%20in%20Eminor.pdf)

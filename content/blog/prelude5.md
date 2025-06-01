@@ -1,5 +1,5 @@
 ---
-title: "Prelude No.5 'Wave' "
+title: "Prelude No. 5 'Wave' "
 date: '2025-03-10'
 draft: false
 image: ''
@@ -24,4 +24,4 @@ The main melody, while appearing simple and recurring, reveals delicate shifts a
 
  ## Download Sheet Music 
 
- [Prelude No.5 in D major (pdf)](/pdfs/Prelude%20No.5%20in%20Dmajor.pdf)
+ [Prelude No. 5 in D major (pdf)](/pdfs/Prelude%20No.5%20in%20Dmajor.pdf)

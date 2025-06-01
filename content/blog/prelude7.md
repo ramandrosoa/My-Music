@@ -1,5 +1,5 @@
 ---
-title: "Prelude No.7 'Sweet Dream' "
+title: "Prelude No. 7 'Sweet Dream' "
 date: '2025-03-30'
 draft: false
 image: ''
@@ -21,4 +21,4 @@ Soft, flowing runs of notes drift through the music like glimmers of early sunli
 
  ## Download Sheet Music
 
-[Prelude No.7 in A major (pdf)](/pdfs/Prelude%20No.7%20in%20Amajor.pdf)
+[Prelude No. 7 in A major (pdf)](/pdfs/Prelude%20No.7%20in%20Amajor.pdf)
