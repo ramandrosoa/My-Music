@@ -18,3 +18,7 @@ Both hands move in unison, echoing each other in a continuous fluid motion, gent
  ## Download Sheet Music
 
  [Prelude No. 1 in C major (pdf)](/pdfs/Prelude%20No.1%20in%20Cmajor.pdf)
+
+ ## Preview 
+
+[Instagram](https://www.instagram.com/p/DF-YOtciEa5/)

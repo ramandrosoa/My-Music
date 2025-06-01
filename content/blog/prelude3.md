@@ -21,3 +21,7 @@ When the music returns to the G major key, it’s not a conclusion but a reset. 
  ## Download Sheet Music
 
 [Prelude No. 3 in G major (pdf)](/pdfs/Prelude%20No.3%20in%20Gmajor.pdf)
+
+ ## Preview 
+ 
+[Instagram](https://www.instagram.com/p/DGif4QMioOT/)
