@@ -4,5 +4,5 @@ date: '2025-02-12'
 draft: false
 ---
 
-Hello, and welcome! I’m Minah Ramandrosoa (@mufu.composer). <br>
-Feel free to explore, download, and connect—music is meant to be shared.
+Hello, and welcome! I’m Minah (@mufu.composer). <br>
+Feel free to explore and connect—music is meant to be shared.
