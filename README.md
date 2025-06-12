@@ -14,7 +14,7 @@ This is the repository for my personal sheet music website, where I share origin
 - `hugo.toml` – Site configuration
 
 ## 🌐 Live Site
-You can view the live website here: [https://my-sheet-music.netlify.app/](https://my-sheet-music.netlify.app/)
+You can view the live website here: 
 
 ## ✍️ About
 The site features free downloads of my original sheet music. I compose as an amateur, and this platform serves as both a portfolio and a way to share music with others.
