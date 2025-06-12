@@ -1,5 +1,5 @@
 ---
-title: "Prelude No. 8"
+title: "Prelude No. 8 'No title yet'"
 date: '2025-06-12'
 draft: false
 image: ''
