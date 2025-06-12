@@ -15,9 +15,9 @@ description:
 ## Description
 
 The melody from this piece came to me in a dream. <br>
-Soft and translucent in character, this prelude unfolds like a memory returning from sleep. <br>
+Translucent in character, this prelude unfolds like a memory returning from sleep. <br>
 A 2-against-3 polyrhythm moves gently beneath the surface, this quiet mismatch creates a soft, shifting tension—like the sensation of just waking, when a dream still lingers at the edge of memory. <br>
-Soft, flowing runs of notes drift through the music like glimmers of early sunlight—fleeting and delicate. Rather than breaking the stillness, they gently brighten it, adding a quiet shimmer that deepens the sense of dreamlike calm.
+Flowing runs of notes drift through the music like glimmers of early sunlight—fleeting and delicate. Rather than breaking the stillness, they gently brighten it, adding a quiet shimmer that deepens the sense of dreamlike calm.
 
  ## Download Sheet Music
 
