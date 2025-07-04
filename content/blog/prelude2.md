@@ -13,6 +13,7 @@ description:
 ## Description
 
 This piece, though not a direct adaptation, reflects the emotional contrasts of War and Peace. <br>
+<br>
 Built on the tension and eventual transformation between A minor and A major, it evokes the interplay of conflict and resolution, of opposing forces that ultimately belong to a shared whole—much like the lives and struggles at the heart of Tolstoy's great novel.
  
  

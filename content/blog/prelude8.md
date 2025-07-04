@@ -14,7 +14,9 @@ description:
 <!--more-->
 ## Description
 Inspired by the Armored Titan’s formidable presence in Attack on Titan, this composition emphasizes percussive weight and density.<br>
+<br>
 His massive, unstoppable form inspired the use of dense, powerful chords that push both the instrument and the performer. It’s physically demanding—like struggling against a wall. <br>
+<br>
 The melody is bold and dramatic, capturing the might and the emotional weight behind Reiner’s struggle.
 
  ## Download Sheet Music

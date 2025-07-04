@@ -16,6 +16,7 @@ description:
 
 This prelude explores the looping potential of harmony, using the tritone as a key to unlock distant tonal relationships. <br> 
 Rather than resolving in a traditional sense, the music folds back on itself. <br>
+<br>
 When the music returns to the G major key, it’s not a conclusion but a reset. The journey could continue endlessly, looping forward and back like a thought that never quite settles.
 
  ## Download Sheet Music
