@@ -2,7 +2,7 @@
 <html><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
     <meta charset="utf-8"/>
     <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-    <title>Categories  </title>
+    <title>Prelude No. 10 &#39;Submersion&#39;  </title>
     <link href="/css/styles.css" rel="stylesheet"/>
     <link href="/css/custom.css" rel="stylesheet"/>
 </head><body><header>
@@ -22,16 +22,143 @@
     </nav>
 </header>
 
-    <section class="hero">
-        <h1 class="p-name">Categories</h1>
-        <form action='' class="form-inline" id="search" method="get">
-    <label for="search-input" hidden="">Search site</label>
-    <input id="search-input" name="query" placeholder="Type here to search" type="text"/>
-    <button type="submit" value="search">Search</button>
-</form>
+    
 
+    <section class="hero"
+    style='background-image: url("/images/6.png"); background-size: cover; background-position: center; background-repeat: no-repeat; width: 100%;'
+    id="heroSection" onload="adjustTextColor(this)">
+        <div>
+            <h1 class="p-name" id="textOverlay">Prelude No. 10 &#39;Submersion&#39;</h1>
+        </div>
     </section>
-    <main class="h-entry e-content container col"></main>
+    <main class="post h-entry container row">
+        <div class="post">
+            <div class="post-data row">
+                <time class="dt-published" datetime="2025-07-01 00:00:00 &#43;0000 UTC">
+                    <a class="u-url" href="http://localhost:1313/blog/prelude10/">Jul 1, 2025</a>
+                </time>
+                <span rel="author" class="p-author h-card">
+                    <img class="u-photo hidden" src="" />
+                    <span class="p-name hidden" rel="me"></span>
+                </span>
+            </div>
+            <div class="e-content">
+                <ul>
+<li><strong>Composer:</strong> Minah Ramandrosoa</li>
+<li><strong>Key:</strong> C sharp minor</li>
+<li><strong>Tempo:</strong> Adagio</li>
+<li><strong>Instrument:</strong> Piano</li>
+</ul>
+<h2 id="description">Description</h2>
+<p>The piece is divided into two parts: Drowning and Diving.<br>
+<br>
+Drowning opens the work with a sense of struggle — gasping right-hand figures imitate air bubbles, while the left hand sinks inexorably downward.<br>
+<br>
+In contrast, Diving marks a modulation to a lighter D major. The music becomes still, curious, and open, as if descending freely into the unknown. Quiet chords suggest the calm of underwater exploration.<br>
+<br>
+The piece ends on an A minor chord with an augmented fourth. The texture grows lighter, rising in shimmering gestures — a nod to Scriabin’s Fifth Sonata. These final figures suggest a distant flicker far above, barely visible through the deep.</p>
+<h2 id="download-sheet-music">Download Sheet Music</h2>
+<p><a href="/pdfs/Prelude%20No.10%20in%20Csharpminor.pdf">Prelude No. 10 in C sharp minor (pdf)</a></p>
+                
+            </div>
+        </div>
+        
+            
+            
+            
+            
+                <aside class="tableOfContentContainer" id="tableOfContentContainer">
+                    <h3>Table of Contents</h3>
+                    <nav id="TableOfContents">
+  <ul>
+    <li><a href="#description">Description</a></li>
+    <li><a href="#download-sheet-music">Download Sheet Music</a></li>
+  </ul>
+</nav>
+                </aside>
+            
+        
+    </main>
+    <script>
+        function adjustTextColor(sectionId) {
+            const section = document.getElementById(sectionId);
+            const style = window.getComputedStyle(section);
+            const imageUrl = style
+                .backgroundImage
+                .slice(4, -1)
+                .replace(/["']/g, "");
+            const image = new Image();
+            image.src = imageUrl;
+            image.onload = function () {
+                const canvas = document.createElement('canvas');
+                const context = canvas.getContext('2d');
+                canvas.width = image.width;
+                canvas.height = image.height;
+                context.drawImage(image, 0, 0, image.width, image.height);
+                const imageData = context.getImageData(0, 0, canvas.width, canvas.height);
+                const data = imageData.data;
+                let r = 0,
+                    g = 0,
+                    b = 0;
+                for (let i = 0; i < data.length; i += 4) {
+                    r += data[i];
+                    g += data[i + 1];
+                    b += data[i + 2];
+                }
+                r /= (data.length / 4);
+                g /= (data.length / 4);
+                b /= (data.length / 4);
+                const brightness = Math.sqrt(0.299 * r * r + 0.587 * g * g + 0.114 * b * b);
+                const textColor = brightness > 128
+                    ? 'black'
+                    : 'white';
+                const shadowColor = brightness > 128
+                    ? 'rgba(255, 255, 255, 0.7)'
+                    : 'rgba(0, 0, 0, 0.7)';
+                const textOverlay = document.getElementById('textOverlay');
+                textOverlay.style.color = textColor;
+                textOverlay.style.textShadow = `0 0 5px ${shadowColor}, 0 0 10px ${shadowColor}, 0 0 20px ${shadowColor}, 0 0 40px ${shadowColor}, 0 0 80px ${shadowColor}, 0 0 90px ${shadowColor}, 0 0 100px ${shadowColor}, 0 0 150px ${shadowColor}`;
+            };
+        }
+        
+        adjustTextColor('heroSection');
+    </script>
+    <script>
+        window.addEventListener('DOMContentLoaded', () => {
+            const observerForTableOfContentActiveState = new IntersectionObserver(entries => {
+                entries.forEach(entry => {
+                    const id = entry
+                        .target
+                        .getAttribute('id');
+
+                    if (entry.intersectionRatio > 0) {
+                        clearActiveStatesInTableOfContents();
+                        document
+                            .querySelector(`nav li a[href="#${id}"]`)
+                            .parentElement
+                            .classList
+                            .add('active');
+                    }
+                });
+            });
+            document
+                .querySelectorAll('h1[id],h2[id],h3[id],h4[id]')
+                .forEach((section) => {
+                    observerForTableOfContentActiveState.observe(section);
+                });
+
+        });
+
+        function clearActiveStatesInTableOfContents() {
+            document
+                .querySelectorAll('nav li')
+                .forEach((section) => {
+                    section
+                        .classList
+                        .remove('active');
+                });
+        }
+    </script>
 <footer>
 
     <div class="logo h-card">
